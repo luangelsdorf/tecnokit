@@ -2,7 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
 
-  async redirects() {
+  /* async redirects() {
     return [
       {
         source: '/',
@@ -10,7 +10,7 @@ const nextConfig = {
         permanent: true,
       },
     ]
-  },
+  }, */
 }
 
 module.exports = nextConfig
