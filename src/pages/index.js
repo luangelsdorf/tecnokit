@@ -8,7 +8,7 @@ export default function Home() {
       <Head>
         <title>Home | TecnoKit</title>
       </Head>
-      <Image style={{ verticalAlign: 'middle', maxWidth: '100%', height: 'auto' }} src={home} alt="" />
+      <Image style={{ pointerEvents: 'none', verticalAlign: 'middle', maxWidth: '100%', height: 'auto' }} src={home} alt="" />
     </div>
   )
 }
