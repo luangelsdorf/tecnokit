@@ -1,3 +1,4 @@
+import About from '@/components/home/About';
 import Banner from '@/components/home/Banner';
 import Benefits from '@/components/home/Benefits';
 import Insta from '@/components/home/Insta';
@@ -21,6 +22,7 @@ export default function Home() {
         <Releases title="Promoções" />
         <Releases title="Destaques" />
         <Insta />
+        <About />
       </main>
 
     </>
