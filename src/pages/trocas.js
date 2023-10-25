@@ -14,7 +14,7 @@ export default function Exchanges() {
         <Container>
           <div>
             <p>
-              Na PC Master, valorizamos a satisfação dos nossos clientes e nos esforçamos para oferecer produtos de alta qualidade. No entanto, entendemos
+              Na TecnoKit, valorizamos a satisfação dos nossos clientes e nos esforçamos para oferecer produtos de alta qualidade. No entanto, entendemos
               que pode haver situações em que você deseje trocar um produto ou solicitar um reembolso. Para garantir uma experiência tranquila e justa, temos
               uma política de troca e devoluções estabelecida, alinhada com as diretrizes do Código de Defesa do Consumidor.
             </p>
@@ -26,7 +26,7 @@ export default function Exchanges() {
             <p>Trocas via Envio Postal:</p>
             <p>
               Caso não possa visitar uma de nossas lojas físicas, oferecemos a opção de troca via envio postal. Para iniciar o processo de troca, entre em contato
-              conosco através do e-mail vendaspcmaster@gmail.com ou pelo telefone (21) 967287299. Informe-nos sobre o motivo da troca e providenciaremos
+              conosco através do e-mail vendastecnokit@gmail.com ou pelo telefone (21) 967287299. Informe-nos sobre o motivo da troca e providenciaremos
               as instruções necessárias.
             </p>
             <p>
@@ -41,7 +41,7 @@ export default function Exchanges() {
               devolução do dinheiro.
             </p>
             <p>
-              Para solicitar o reembolso, entre em contato conosco pelo e-mail vendaspcmaster@gmail.com ou pelo telefone (21) 967287299. Faremos o possível
+              Para solicitar o reembolso, entre em contato conosco pelo e-mail vendastecnokit@gmail.com ou pelo telefone (21) 967287299. Faremos o possível
               para atender à sua solicitação de forma rápida e eficiente.
             </p>
             <p>
@@ -52,7 +52,7 @@ export default function Exchanges() {
               Estamos empenhados em garantir a sua satisfação e em cumprir com as normas legais do comércio eletrônico. Caso tenha alguma dúvida ou
               precise de mais informações, não hesite em entrar em contato com nossa equipe de atendimento ao cliente.
             </p>
-            <p>Equipe PC Master</p>
+            <p>Equipe TecnoKit</p>
           </div>
         </Container>
       </main>
