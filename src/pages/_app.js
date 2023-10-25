@@ -4,6 +4,8 @@ import 'bootstrap/dist/css/bootstrap-reboot.css';
 import 'bootstrap/dist/css/bootstrap-utilities.css';
 import '@/styles/styles.scss';
 import { Open_Sans } from 'next/font/google';
+import Header from '@/components/layout/Header';
+import Footer from '@/components/layout/Footer';
 
 const openSans = Open_Sans({
   subsets: ['latin'],
@@ -24,7 +26,9 @@ export default function App({ Component, pageProps }) {
           }
         `}
       </style>
+      <Header />
       <Component {...pageProps} />
+      <Footer />
     </>
   )
 }

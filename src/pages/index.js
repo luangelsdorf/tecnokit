@@ -14,8 +14,6 @@ export default function Home() {
         <title>Home | TecnoKit</title>
       </Head>
 
-      <Header />
-
       <main>
         <Banner />
         <Releases />
@@ -25,8 +23,6 @@ export default function Home() {
         <Insta />
         <About />
       </main>
-
-      <Footer />
     </>
   )
 }
