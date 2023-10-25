@@ -1,0 +1,33 @@
+.upperBar {
+  height: 28px;
+  display: flex;
+  align-items: center;
+  background-color: rgb(var(--primary));
+}
+
+.header {
+  .innerHeader {
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: nowrap;
+  }
+
+  .buttons {
+    display: flex;
+    align-items: flex-end;
+    gap: 48px;
+  }
+}
+
+.nav {
+  display: flex;
+  justify-content: center;
+  border-top: 1px solid rgb(var(--livid-dark), 0.2);
+  border-bottom: 1px solid rgb(var(--livid-dark), 0.2);
+
+  li {
+    padding: 16px;
+  }
+}
