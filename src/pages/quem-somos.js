@@ -14,8 +14,8 @@ export default function AboutUs() {
         <Container className="d-flex flex-center">
           <div>
             <p>TecnoKit</p>
-            <p>Seja bem-vindo à TecnoKit, a sua loja de informática de confiança no coração do Rio de Janeiro!</p>
-            <p>Estamos localizados na Avenida Rio Branco, 156, loja 208, stand 07, Centro, 20040003.</p>
+            <p>Seja bem-vindo à TecnoKit, a sua loja de informática de confiança no coração do Rio Grande do Sul!</p>
+            <p>Estamos localizados na Avenida 20 de Setembro, 123,, Centro, 33333333.</p>
             <p>Aqui na TecnoKit, somos apaixonados por tecnologia e dedicados a fornecer soluções de informática de alta qualidade para atender às necessidades de nossos clientes.</p>
             <p>Nossa jornada começou há 13 anos, quando percebemos a crescente importância da tecnologia em nossas vidas diárias. Inspirados pela paixão por computadores e dispositivos eletrônicos, decidimos fundar a TecnoKit com o objetivo de oferecer produtos e serviços excepcionais para todos os entusiastas de tecnologia, desde consumidores casuais até profissionais exigentes.</p>
             <p>Acreditamos que a tecnologia tem o poder de transformar e simplificar o modo como vivemos e trabalhamos. Por isso, nos especializamos em oferecer uma ampla gama de produtos, incluindo computadores, laptops, periféricos, componentes, acessórios e software de renomadas marcas do mercado. Nossos produtos são cuidadosamente selecionados para atender aos mais altos padrões de qualidade, desempenho e inovação, garantindo a satisfação dos nossos clientes.</p>

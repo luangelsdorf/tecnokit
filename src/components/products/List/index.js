@@ -2,6 +2,7 @@ import { Col, Container, Row } from 'react-bootstrap';
 import styles from './List.module.scss';
 import Product from 'public/images/svg/home/releases/produto-2.svg';
 import Filters from 'public/images/svg/products/filters.svg';
+import Link from 'next/link';
 
 export default function List({ content }) {
   return (
@@ -14,40 +15,64 @@ export default function List({ content }) {
           <Col lg={10}>
             <Row style={{rowGap: '40px'}}>
               <Col>
-                <Product />
+                <Link href="/produtos/1">
+                  <Product />
+                </Link>
               </Col>
               <Col>
-                <Product />
+                <Link href="/produtos/1">
+                  <Product />
+                </Link>
               </Col>
               <Col>
-                <Product />
+                <Link href="/produtos/1">
+                  <Product />
+                </Link>
               </Col>
               <Col>
-                <Product />
+                <Link href="/produtos/1">
+                  <Product />
+                </Link>
               </Col>
               <Col>
-                <Product />
+                <Link href="/produtos/1">
+                  <Product />
+                </Link>
               </Col>
               <Col>
-                <Product />
+                <Link href="/produtos/1">
+                  <Product />
+                </Link>
               </Col>
               <Col>
-                <Product />
+                <Link href="/produtos/1">
+                  <Product />
+                </Link>
               </Col>
               <Col>
-                <Product />
+                <Link href="/produtos/1">
+                  <Product />
+                </Link>
               </Col>
               <Col>
-                <Product />
+                <Link href="/produtos/1">
+                  <Product />
+                </Link>
               </Col>
               <Col>
-                <Product />
+                <Link href="/produtos/1">
+                  <Product />
+                </Link>
               </Col>
               <Col>
-                <Product />
+                <Link href="/produtos/1">
+                  <Product />
+                </Link>
               </Col>
               <Col>
-                <Product />
+                <Link href="/produtos/1">
+                  <Product />
+                </Link>
               </Col>
             </Row>
           </Col>

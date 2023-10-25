@@ -4,6 +4,7 @@ import Product1 from 'public/images/svg/home/releases/produto-1.svg';
 import Product2 from 'public/images/svg/home/releases/produto-2.svg';
 import Product3 from 'public/images/svg/home/releases/produto-3.svg';
 import Product4 from 'public/images/svg/home/releases/produto-4.svg';
+import Link from 'next/link';
 
 export default function Releases({ title = 'Lançamentos' }) {
   return (
@@ -12,16 +13,24 @@ export default function Releases({ title = 'Lançamentos' }) {
       <Container>
         <Row>
           <Col>
-            <Product1 />
+            <Link href="/produtos/1">
+              <Product1 />
+            </Link>
           </Col>
           <Col>
-            <Product2 />
+            <Link href="/produtos/1">
+              <Product2 />
+            </Link>
           </Col>
           <Col>
-            <Product3 />
+            <Link href="/produtos/1">
+              <Product3 />
+            </Link>
           </Col>
           <Col>
-            <Product4 />
+            <Link href="/produtos/1">
+              <Product4 />
+            </Link>
           </Col>
         </Row>
       </Container>
