@@ -35,19 +35,19 @@ export default function Header({ content }) {
             <Link href="/">Início</Link>
           </li>
           <li>
-            <Link href="#"/* "/produtos" */>Produtos</Link>
+            <Link href="/produtos">Produtos</Link>
           </li>
           <li>
-            <Link href="#"/* "/contato" */>Contato</Link>
+            <Link href="/contato">Contato</Link>
           </li>
           <li>
-            <Link href="#"/* "/quem-somos" */>Quem Somos</Link>
+            <Link href="/quem-somos">Quem Somos</Link>
           </li>
           <li>
-            <Link href="#"/* "/trocas" */>Trocas e Devoluções</Link>
+            <Link href="/trocas">Trocas e Devoluções</Link>
           </li>
           <li>
-            <Link href="#"/* "/privacidade" */>Política de Privacidade</Link>
+            <Link href="/privacidade">Política de Privacidade</Link>
           </li>
         </ul>
       </nav>
