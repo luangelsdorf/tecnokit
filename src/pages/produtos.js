@@ -10,7 +10,7 @@ export default function Products() {
         <title>Produtos | TecnoKit</title>
       </Head>
 
-      <main style={{ paddingTop: '24px', marginBottom: '120px' }}>
+      <main style={{ marginBottom: '120px' }}>
         <Container style={{ marginBottom: '48px' }}>
           <Menu />
         </Container>
