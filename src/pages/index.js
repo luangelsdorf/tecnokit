@@ -17,6 +17,8 @@ export default function Home() {
         <Banner />
         <Releases />
         <Benefits />
+        <Releases title="Promoções" />
+        <Releases title="Destaques" />
       </main>
 
     </>

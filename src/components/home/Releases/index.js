@@ -5,10 +5,10 @@ import Product2 from 'public/images/svg/home/releases/produto-2.svg';
 import Product3 from 'public/images/svg/home/releases/produto-3.svg';
 import Product4 from 'public/images/svg/home/releases/produto-4.svg';
 
-export default function Releases({ content }) {
+export default function Releases({ title = 'Lançamentos' }) {
   return (
     <section className={styles.section}>
-      <h2 className="text-center">Lançamentos</h2>
+      <h2 className="text-center">{title}</h2>
       <Container>
         <Row>
           <Col>
