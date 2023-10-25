@@ -26,7 +26,7 @@ export default function Exchanges() {
             <p>Trocas via Envio Postal:</p>
             <p>
               Caso não possa visitar uma de nossas lojas físicas, oferecemos a opção de troca via envio postal. Para iniciar o processo de troca, entre em contato
-              conosco através do e-mail vendastecnokit@gmail.com ou pelo telefone (21) 967287299. Informe-nos sobre o motivo da troca e providenciaremos
+              conosco através do e-mail vendastecnokit@gmail.com ou pelo telefone (51) 99999-9999. Informe-nos sobre o motivo da troca e providenciaremos
               as instruções necessárias.
             </p>
             <p>
@@ -41,7 +41,7 @@ export default function Exchanges() {
               devolução do dinheiro.
             </p>
             <p>
-              Para solicitar o reembolso, entre em contato conosco pelo e-mail vendastecnokit@gmail.com ou pelo telefone (21) 967287299. Faremos o possível
+              Para solicitar o reembolso, entre em contato conosco pelo e-mail vendastecnokit@gmail.com ou pelo telefone (51) 99999-9999. Faremos o possível
               para atender à sua solicitação de forma rápida e eficiente.
             </p>
             <p>
