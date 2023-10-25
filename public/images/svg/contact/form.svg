@@ -1,0 +1,16 @@
+<svg width="837" height="528" viewBox="0 0 837 528" fill="none" xmlns="http://www.w3.org/2000/svg">
+<text fill="#34495E" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0.330078" y="13.1553">Nome completo</tspan></text>
+<rect x="0.330078" y="27" width="836.66" height="45" rx="10" fill="white"/>
+<rect x="0.830078" y="27.5" width="835.66" height="44" rx="9.5" stroke="#34495E" stroke-opacity="0.3"/>
+<text fill="#34495E" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0.330078" y="105.155">E-mail</tspan></text>
+<rect x="0.330078" y="119" width="836.66" height="45" rx="10" fill="white"/>
+<rect x="0.830078" y="119.5" width="835.66" height="44" rx="9.5" stroke="#34495E" stroke-opacity="0.3"/>
+<text fill="#34495E" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0.330078" y="197.155">Telefone</tspan></text>
+<rect x="0.330078" y="211" width="836.66" height="45" rx="10" fill="white"/>
+<rect x="0.830078" y="211.5" width="835.66" height="44" rx="9.5" stroke="#34495E" stroke-opacity="0.3"/>
+<text fill="#34495E" xml:space="preserve" style="white-space: pre" font-family="Open Sans" font-size="12" letter-spacing="0em"><tspan x="0.330078" y="289.155">Mensagem</tspan></text>
+<rect x="0.330078" y="303" width="836.66" height="159" rx="10" fill="white"/>
+<rect x="0.830078" y="303.5" width="835.66" height="158" rx="9.5" stroke="#34495E" stroke-opacity="0.3"/>
+<rect x="0.330078" y="482" width="836.66" height="46" rx="23" fill="#3498DB"/>
+<text fill="white" xml:space="preserve" style="white-space: pre" font-family="Arial" font-size="14" font-weight="bold" letter-spacing="1px"><tspan x="389.884" y="509.854">ENVIAR</tspan></text>
+</svg>
